@@ -1,13 +1,6 @@
 # Chat Application
 
-chat-app/
-├── index.html
-├── chat.html
-├── style.css
-├── script.js
-├── chat.js
-├── server.js
-└── package.json
+![alt text](<Screenshot 2025-08-01 at 2.34.39 PM.png>)
 
 
 ## How to Run
